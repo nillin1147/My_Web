@@ -6,6 +6,7 @@ body {
 
 body {
   margin: 0;
+  background-color: #c5c5c5;
 }
 
 a {
@@ -64,11 +65,12 @@ li.current {
 }
 
 .main-screen {
-  width: 1000px;
+  width: 60%;
   height: 500px;
   border-right: 1px black solid;
   border-left: 1px black solid;
-  margin: 50px 100px;
+  margin: 50px auto;
   padding: 10px 30px;
+  background-color: #fff;
 }
 /*# sourceMappingURL=style.css.map */
